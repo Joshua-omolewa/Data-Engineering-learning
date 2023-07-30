@@ -2,8 +2,12 @@
 
 ## I worked on some simple tasks using Bash scripting
 
-
 ### Task 1
+
+* Create a percentage calculator script. The script takes in two arguments, the argument to compute the percentage for, and the percentage value
+
+
+### Task 2
 
 * Using the data.txt file, write a script that prints the details of all male gender in the file.
 
