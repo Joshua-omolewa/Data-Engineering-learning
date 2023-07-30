@@ -6,12 +6,14 @@
 
 * Create a percentage calculator script. The script takes in two arguments, the argument to compute the percentage for, and the percentage value
 
+  You can find my solution [here](https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/task1/percentage_value.sh).
+
 
 ### Task 2
 
 * Using the data.txt file, write a script that prints the details of all male gender in the file.
 
-  You can find my solution [here](https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/task1/task2.sh).
+  You can find my solution [here](https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/task2/task2.sh).
   
   **Please note I am using Linux**: you need to install awk using `sudo apt-get  install -y gawk` for my script to work.
   
