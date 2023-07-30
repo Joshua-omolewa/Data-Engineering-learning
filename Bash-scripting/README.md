@@ -11,4 +11,5 @@
   
   **Please note I am using Linux**: you need to install awk using `sudo apt-get  install -y gawk` for my script to work.
   
-  To run my script simply use `./task2.sh` and ensure the `data.txt` file is also present in the same directory as the script file
+  To run my script simply use `./task2.sh` and ensure the `data.txt` file is also present in the same directory as the script file. See image below for output
+  <img src="https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/img/Task1.jpg"  width="100%" height="100%">
