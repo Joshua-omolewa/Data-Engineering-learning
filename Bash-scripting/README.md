@@ -14,7 +14,7 @@
 
 ### Task 2
 
-* Using the data.txt file, write a script that prints the details of all male gender in the file.
+* Using the data.txt file found [here](https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/data.txt), write a script that prints the details of all male gender in the file.
 
   You can find my solution [here](https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/task2/task2.sh).
   
