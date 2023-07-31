@@ -38,9 +38,9 @@ To run my script simply use `./array_value_joshua.sh`. See the image below for t
 ### Task 4
 
 * Create a script that checks the status of a traffic light. You can find the array for the traffic light in the `traffic_status.sh` script which can be found [here](https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/task4/traffic_status.sh)
- * If the light is green it should print GO
- * If the light is yellow it should print READY
- * If the light is red it should print READY
+  * If the light is green it should print GO
+  * If the light is yellow it should print READY
+  * If the light is red it should print READY
 
  You can find my solution [here](https://github.com/Joshua-omolewa/Data-Engineering-learning/blob/main/Bash-scripting/task4/traffic_status_joshua.sh).
 
